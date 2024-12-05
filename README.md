@@ -1,4 +1,3 @@
-
 # Python - Everything is Object
 
 ## Description 🎯
@@ -125,4 +124,4 @@ TheWatcher01
 
 ## Acknowledgments 🙏
 
-Project provided by Holberton School
+Project provided by [Holberton School](https://www.holbertonschool.fr/)
